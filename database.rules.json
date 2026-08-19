@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "liga": {
+      "teams": {
+        ".read": true,
+        ".write": "auth != null"
+      }
+    }
+  }
+}
