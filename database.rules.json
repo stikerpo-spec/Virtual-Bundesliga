@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "liga": {
+      ".read": true,
+      ".write": true
+    }
+  }
+}
