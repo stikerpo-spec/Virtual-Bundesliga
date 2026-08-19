@@ -1,0 +1,19 @@
+{
+  "leagueName": "VIRTUAL BUNDESLIGA",
+  "updatedAt": "2026-08-19T15:48:00.000Z",
+  "teams": [
+    {"id":"real-madrid","team":"REAL MADRID","coach":"Scotty","sp":1,"s":1,"u":0,"n":0,"goals":"6:3","diff":3,"points":3},
+    {"id":"osnabrueck","team":"OSNABRÜCK","coach":"Philipp","sp":1,"s":1,"u":0,"n":0,"goals":"7:5","diff":2,"points":3},
+    {"id":"nuernberg","team":"NÜRNBERG","coach":"Stikerpo","sp":1,"s":1,"u":0,"n":0,"goals":"4:2","diff":2,"points":3},
+    {"id":"schalke","team":"SCHALKE 04","coach":"Antik","sp":1,"s":1,"u":0,"n":0,"goals":"2:1","diff":1,"points":3},
+    {"id":"barcelona","team":"BARCELONA","coach":"Kenny","sp":0,"s":0,"u":0,"n":0,"goals":"0:0","diff":0,"points":0},
+    {"id":"atletico","team":"ATLETICO MADRID","coach":"Ben","sp":0,"s":0,"u":0,"n":0,"goals":"0:0","diff":0,"points":0},
+    {"id":"dortmund","team":"DORTMUND","coach":"Julien","sp":0,"s":0,"u":0,"n":0,"goals":"0:0","diff":0,"points":0},
+    {"id":"psg","team":"SNEAX | PSG","coach":"Sneax","sp":0,"s":0,"u":0,"n":0,"goals":"0:0","diff":0,"points":0},
+    {"id":"freiburg","team":"FREIBURG","coach":"Raphael","sp":1,"s":1,"u":0,"n":0,"goals":"1:2","diff":-1,"points":0},
+    {"id":"sturm-graz","team":"STURM GRAZ","coach":"Trululu","sp":1,"s":0,"u":0,"n":1,"goals":"2:4","diff":-2,"points":0},
+    {"id":"juventus","team":"JUVENTUS","coach":"clpz_king","sp":1,"s":0,"u":0,"n":1,"goals":"5:7","diff":-2,"points":0},
+    {"id":"al-nassr","team":"AL NASSR","coach":"Peter","sp":1,"s":0,"u":0,"n":1,"goals":"3:6","diff":-3,"points":0}
+  ],
+  "matches": []
+}
