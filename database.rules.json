@@ -1,0 +1,14 @@
+{
+  "rules": {
+    "liga": {
+      "teams": {
+        ".read": true,
+        ".write": true
+      },
+      "matches": {
+        ".read": true,
+        ".write": true
+      }
+    }
+  }
+}
